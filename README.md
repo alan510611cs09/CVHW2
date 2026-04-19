@@ -51,5 +51,6 @@ After phase 2 is done, press the start button of the fourth block to start infer
 
 # Performance Snapshot.
 
-<img width="1201" height="76" alt="image" src="https://github.com/user-attachments/assets/7647657c-c0d5-4981-b676-909186922f06" />
-**
+<img width="1177" height="52" alt="image" src="https://github.com/user-attachments/assets/a48c28ac-171a-4c7a-8a8f-0740d28f05f2" />
+
+
